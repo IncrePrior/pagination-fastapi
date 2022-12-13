@@ -1,4 +1,4 @@
-#FastAPI Server
+# FastAPI Server
 
 - This is a FastAPI app which is built to demonstrate pagination.
 
