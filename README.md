@@ -1,1 +1,1 @@
-# A basic pagination app with FastAPI + React
+# A basic pagination app using FastAPI + React
